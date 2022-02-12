@@ -1,0 +1,129 @@
+.w {
+	width: 1200px;
+	margin: auto;
+}
+body {
+	height: 1000px;
+}
+.header {
+	height: 82px;
+	border-bottom: 2px solid #b1191a;
+}
+.logo {
+	padding-top: 15px;
+}
+.registerarea {
+	height: 520px;
+	border: 1px solid #ccc;
+	margin-top: 20px;
+}
+.registerarea h3 {
+	height: 40px;
+	background-color: #ececec;
+	border-bottom: 1px solid #ccc;
+	line-height: 40px;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 0 10px;
+}
+.registerarea h3 em {
+	float: right;
+	font-size: 14px;
+}
+.registerarea a {
+	color: #c81623;
+}
+.reg-form {
+	width: 600px;
+	height: 400px;
+	margin: 40px auto;
+	overflow: hidden;
+}
+.reg-form  li {
+	margin-top: 20px;
+}
+.reg-form .phonenumber {
+	margin-top: 14px;
+}
+.reg-form label {
+	display: inline-block;
+	width: 100px;
+	text-align: right;
+	line-height: 36px;
+}
+.txt {
+	width: 238px;
+	height: 34px;
+	border: 1px solid #ccc;
+}
+.txt:focus {
+	border: 1px solid #1ba1e6;
+}
+.reg-form .error {
+	font-size: 12px;
+	color: #df3033;
+	margin-left: 10px;
+}
+.error_ico {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background: url(../img/error.png) no-repeat;
+	vertical-align: middle;
+	margin-top: -2px;
+}
+.safe {
+	color: #b3b3b3;
+	margin-left: 177px;
+}
+.ruo,
+.zhong,
+.qiang {
+	padding: 0 12px;
+	color: #fff;
+}
+.ruo {
+	background-color: #de1111;
+}
+.zhong {
+	background-color: #40b83f;
+}
+.qiang {
+	background-color: #f79100;
+}
+.reg-form .agree {
+	margin: 42px 0 0 97px;
+}
+.agree input {
+	vertical-align: middle;
+	margin-top: -2px;
+}
+.agree a {
+	color: #1ba1e6;
+}
+.reg-form .submit {
+	margin: 50px 0 0 108px;
+}
+.submit input {
+	width: 200px;
+	height: 34px;
+	background-color: #c81623;
+	font-size: 14px;
+	color: #fff;
+	border: none;
+	line-height: 34px;
+	cursor: pointer;
+}
+.footer {
+	margin-top: 15px;
+	text-align: center;
+}
+.copyright_links {
+	height: 30px;
+}
+.copyright_links a {
+	margin: 0 15px;
+}
+.copyright_info {
+	line-height: 20px;
+}
