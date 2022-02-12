@@ -1,4 +1,4 @@
-﻿/*清除元素默认的内外边距  */
+/*清除元素默认的内外边距  */
 * {
     margin: 0;
     padding: 0
@@ -38,7 +38,6 @@ input {
 }
 
 body {
-    height: 3000px;
     background-color: #fff;
     font: 12px/1.5 'Microsoft YaHei', 'Heiti SC', tahoma, arial, 'Hiragino Sans GB', \\5B8B\4F53, sans-serif;
     color: #666
